@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/luxfi/log"
+	log "github.com/luxfi/log"
 
 	"github.com/luxfi/pubsub/bloom"
 )

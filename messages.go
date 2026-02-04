@@ -4,7 +4,7 @@
 package pubsub
 
 import (
-	"github.com/luxfi/crypto/address"
+	"github.com/luxfi/address"
 	"github.com/luxfi/codec"
 	"github.com/luxfi/sdk/api"
 )

@@ -11,7 +11,7 @@ import (
 	"github.com/gorilla/websocket"
 
 	"github.com/luxfi/constants"
-	"github.com/luxfi/log"
+	log "github.com/luxfi/log"
 	"github.com/luxfi/math/set"
 )
 
